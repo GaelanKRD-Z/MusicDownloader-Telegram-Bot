@@ -7,7 +7,6 @@ from itertools import combinations
 from PIL import Image
 from io import BytesIO
 from yt_dlp import YoutubeDL
-from shazamio import Shazam
 import requests, asyncio, re, os
 import bs4, wget, hashlib, time
 import lyricsgenius
