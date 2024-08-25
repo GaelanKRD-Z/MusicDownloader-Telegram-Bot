@@ -4,7 +4,6 @@ python-dotenv
 spotipy
 Telethon
 spotdl
-shazamio
 lyricsgenius
 aiosqlite
 wget
