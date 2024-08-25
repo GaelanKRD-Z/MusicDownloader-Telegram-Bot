@@ -44,7 +44,7 @@ Or simply click the Instructions button below. 👇
     ——————————————————
     Use any service by following the instructions!
     If you have any questions,
-     feel free to ask @adibnikjou.
+     feel free to ask @Gae1an.
         """
 
     search_result_message = """🎵 The following are the top search results that correspond to your query:
